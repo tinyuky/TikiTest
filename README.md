@@ -11,6 +11,6 @@ This is my app.Sorry about the UI, I haven't finish UI. I have just finish the a
   - main.go : application running file
   - routers: folder have config about router for api. I use Gin in this project
   - dto: data tranfer object. I store data type I used in this project
-  - controllers: strore function to handle the request. They use function in model or service
+  - controllers: have functions to handle the request. They use function in model or service
   - models: have functions to work with file password.txt like: Add, Get,..
-  - services: have function work with password: validate, verify, set password
+  - services: have functions work with password: validate, verify, set password
